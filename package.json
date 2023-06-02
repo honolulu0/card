@@ -1,0 +1,30 @@
+{
+  "name": "default",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@riophae/vue-treeselect": "^0.4.0",
+    "axios": "^0.21.1",
+    "core-js": "^2.6.5",
+    "draggable": "^4.2.0",
+    "echarts": "^4.8.0",
+    "element-ui": "^2.15.1",
+    "moment": "^2.29.1",
+    "sortablejs": "^1.13.0",
+    "vue": "^2.6.10",
+    "vue-ganttastic": "^0.9.32",
+    "vue-router": "^3.5.1",
+    "vuedraggable": "^2.24.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.1.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}

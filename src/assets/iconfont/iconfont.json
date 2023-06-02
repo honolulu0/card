@@ -1,0 +1,16 @@
+{
+  "id": "4091107",
+  "name": "星球卡",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "35718291",
+      "name": "分组 13",
+      "font_class": "a-fenzu13",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
