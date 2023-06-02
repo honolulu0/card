@@ -70,6 +70,10 @@
 				</el-col>
 			</el-row>
 		</el-card>
+		<div style="position:fixed;text-align:center;bottom:3%;margin:0 auto;width:100%;color: #111111">
+			<a target="_blank" style="color: #111111" href="https://beian.miit.gov.cn/">鄂公网安备 42010302002496号</a>
+			&nbsp; @2022-2023
+		</div>
 	</div>
 </template>
 
