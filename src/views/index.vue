@@ -70,6 +70,10 @@
 				</el-col>
 			</el-row>
 		</el-card>
+		<div style="position:fixed;text-align:center;bottom:3%;margin:0 auto;width:100%;color: #ffffff">
+			<a target="_blank" style="color: #ffffff" href="https://beian.miit.gov.cn/">鄂公网安备 42010302002496号</a>
+			&nbsp; @2022-2023
+		</div>
 	</div>
 </template>
 
@@ -136,8 +140,8 @@ $-default-color: rgba(47, 76, 221, 1);
 .login-container {
 	border-radius: 24px;
 	margin: auto auto;
-	width: 1436px;
-	height: 848px;
+	width: 1200px;
+	height: 720px;
 	padding: 30px 35px 15px 35px;
 	// background: #fff;
 	background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(29, 40, 94, 0.2) 100%), rgba(255, 255, 255, 1);

@@ -1,10 +1,7 @@
 <template>
 	<div id="app">
 		<router-view />
-		<div style="position:fixed;text-align:center;bottom:3%;margin:0 auto;width:100%;color: #ffffff">
-			<a target="_blank" style="color: #ffffff" href="https://beian.miit.gov.cn/">鄂公网安备 42010302002496号</a>
-			&nbsp; @2022-2023
-		</div>
+
 	</div>
 </template>
 
