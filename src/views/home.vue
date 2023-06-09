@@ -27,13 +27,13 @@
       <el-radio-group v-model="vip" size="mini">
         <span style="display: inline-block; margin-right: 100px">
           <el-image style="width: 70px; height: 70px" :src="require('@/assets/vip1.png')" fit="full"></el-image>
-          <el-radio :disabled="$user.info.grade == 3" style="display: block" label="2">99/月 黄金会员</el-radio>
+          <el-radio :disabled="$user.info.grade == 3" style="display: block" label="2">39/月 黄金会员</el-radio>
         </span>
 
         <span style="display: inline-block">
           <el-image style="width: 70px; height: 70px" :src="require('@/assets/vip2.png')" fit="full"></el-image>
 
-          <el-radio style="display: block" label="3">199/月 钻石会员</el-radio>
+          <el-radio style="display: block" label="3">99/月 钻石会员</el-radio>
         </span>
       </el-radio-group>
 
